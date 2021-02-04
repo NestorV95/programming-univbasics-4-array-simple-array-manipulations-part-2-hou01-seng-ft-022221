@@ -14,10 +14,7 @@ def using_flatten (instruments)
   instruments.flatten
 end
 
-def using_delete (instructors, string)
+def using_delete (array, string)
    instructors.delete ( string, string)
 end 
-
-def using_delete_at (famous_robots) 
-end
 
